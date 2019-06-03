@@ -4,7 +4,7 @@ gems:
 
 # Exclude these files from your production _site
 permalink: /:title/
-name: Your Name
+name: Michael Legere
 sass:
   style: :expanded # You might prefer to minify using :compressed
 
@@ -44,4 +44,5 @@ footer-links:
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
-description: Web Developer from Somewhere
+description: A platform for my views, knowledge, and accomplishments in Software Development,
+  and oftware quality assurance.
