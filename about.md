@@ -36,4 +36,4 @@ Michael Legere was born in Portland Maine, and has been a resident of Portland f
 
 ### Contact me
 
-[Email me](mailto:m.legere1323@gmail.com)
+[m.legere1323@gmail.com](mailto:m.legere1323@gmail.com)
