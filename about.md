@@ -10,19 +10,19 @@ My name is Michael Legere. I'm a programmer (software development and QA), philo
 
 B.S. Computer Science, University of Southern Maine, Class of 2018
 
-Software Development:
+##### Software Development:
 * Wex
 * Introspective Systems
 * Tyler Technologies
 * Univeristy of Southern Maine
 * Idexx
 
-Quality Assurance:
+##### Quality Assurance:
 * Wex
 * Bottomline Technologies
 * Idexx
 
-Languages:
+##### Languages:
 * Java
 * Javascript
 * Python
