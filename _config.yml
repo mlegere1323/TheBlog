@@ -19,7 +19,7 @@ kramdown:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
 version: v1.2.0
-avatar: /images/myFace.PNG
+avatar: images/myFace.PNG
 google_analytics:
 exclude:
 - Gemfile
