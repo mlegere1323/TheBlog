@@ -4,12 +4,36 @@ title: About Me
 permalink: /about/
 ---
 
-My name is Michael Legere. I'm a programmer (software development and QA), philosophy enthusiast, weather geek, musician, and gamer. I blog about whatever interests me, as it relates to the software industry, my interests, or software concepts in general. I'm excited about communication, social equity, software as an art, emergent phenomena, visualization of dynamic systems, and tools and software that help progress these domains.
+My name is Michael Legere. I'm a programmer (software development and QA), philosophy enthusiast, weather geek, musician, and gamer. I blog about whatever interests me, as it relates to the software industry, my interests, or software concepts in general. I'm excited about communication, design, social equity, software as an art, emergent phenomena, visualization of dynamic systems, and tools and software that help progress these domains.
 
-### More Information
+### Background
 
-A place to include any other types of information that you'd like to include about yourself.
+B.S. Computer Science, University of Southern Maine, Class of 2018
+
+Software Development:
+* Wex
+* Introspective Systems
+* Tyler Technologies
+* Univeristy of Southern Maine
+* Idexx
+
+Quality Assurance:
+* Wex
+* Bottomline Technologies
+* Idexx
+
+Languages:
+* Java
+* Javascript
+* Python
+* SQL
+* Gherkin
+* Some C, and C#
+
+## Bio
+
+Michael Legere was born in Portland Maine, and has been a resident of Portland for almost a decade. Michael has over a decade of software programming experiences, and has most recently been working in quality assurance to gain holistic perspectives on the software development lifecycle.
 
 ### Contact me
 
-[Email](mailto:m.legere1323@gmail.com)
+[Email me](mailto:m.legere1323@gmail.com)
