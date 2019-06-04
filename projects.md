@@ -2,6 +2,8 @@
 layout: page
 title: Projects
 permalink: /projects/
+header: Projects
+group: navigation
 ---
 
 * [RobotRoom](https://mlegere1323.github.io/RobotRoom/RobotRoom.html)
