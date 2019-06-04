@@ -34,6 +34,10 @@ B.S. Computer Science, University of Southern Maine, Class of 2018
 
 Michael Legere was born in Portland Maine, and has been a resident of Portland for almost a decade. Michael has over a decade of software programming experiences, and has most recently been working in quality assurance to gain holistic perspectives on the software development lifecycle.
 
+### Projects
+
+[RobotRoom](https://mlegere1323.github.io/RobotRoom/AssignmentFinal.html)
+
 ### Contact Me
 
 [m.legere1323@gmail.com](mailto:m.legere1323@gmail.com)
