@@ -36,7 +36,7 @@ B.S. Computer Science, University of Southern Maine, Class of 2018
 
 Michael Legere was born in Portland Maine, and has been a resident of Portland for almost a decade. Michael has over a decade of software programming experiences, and has most recently been working in quality assurance to gain holistic perspectives on the software development lifecycle. 
 
-In his spare time, Michael enjoys spending time with his three cats, singing, playing guitar, gaming, learning new technology skills, and reading on complex topics.
+In his spare time, Michael enjoys spending time with his three cats, singing, playing guitar, gaming, learning new technology skills, and reading on complex topics, in addition to participating in various social media.
 
 ### Contact Me
 
