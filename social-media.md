@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Social Media
-permalink: /socialmedia/
+permalink: /social-media/
 ---
 
 Test
