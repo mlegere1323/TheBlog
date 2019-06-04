@@ -8,8 +8,8 @@ permalink: /social-media/
 
 
 * My career
- * [LinkedIn](https://www.linkedin.com/in/michael-legere-6943aa45/)
+    * [LinkedIn](https://www.linkedin.com/in/michael-legere-6943aa45/)
 * My cats
- * [Instagram](https://www.instagram.com/justsomecatsfrommaine/)
+    * [Instagram](https://www.instagram.com/justsomecatsfrommaine/)
 * My projects
- * [GitHub](https://github.com/mlegere1323)
+    * [GitHub](https://github.com/mlegere1323)
