@@ -4,7 +4,9 @@
 To whomever reads this, thank you! This is my first post and I appreciate you scrolling by!
 
 
-**Cucumber With Java!**: I've enjoyed learning Behavioral Driven Development (BDD) via Cucumber! This book (below) is a great read for those familiar with Java. I'm hoping to write a post with a closer look at some of the concepts soon; I've been enjoying re-reading it recently. Using cucumber to create an automation test suite to test an API at Wex has been one of my favorite projects to date!
+**Cucumber With Java!** 
+
+I've enjoyed learning Behavioral Driven Development (BDD) via Cucumber! This book (below) is a great read for those familiar with Java. I'm hoping to write a post with a closer look at some of the concepts soon; I've been enjoying re-reading it recently. Using cucumber to create an automation test suite to test an API at Wex has been one of my favorite projects to date!
 
 For more info on Cucumber: [cucumber.io](https://cucumber.io/)
 
