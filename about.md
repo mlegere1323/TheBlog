@@ -6,7 +6,7 @@ permalink: /about/
 
 My name is Michael Legere. I'm a programmer (software development and QA), philosophy enthusiast, weather geek, musician, and gamer. I blog about whatever interests me, as it relates to the software industry, my interests, or software concepts in general. I'm excited about communication, design, social equity, software as an art, emergent phenomena, visualization of dynamic systems, and tools and software that help progress these domains. 
 
-The views contained within this website are solely mine, and in no way reflect any specific positions any employer of mine (past or present).
+The views contained within this website are solely mine, and in no way reflect any specific positions of any employer of mine (past or present).
 
 ### Background
 
