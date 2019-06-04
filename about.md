@@ -36,7 +36,8 @@ Michael Legere was born in Portland Maine, and has been a resident of Portland f
 
 ### Projects
 
-[RobotRoom](https://mlegere1323.github.io/RobotRoom/AssignmentFinal.html)
+* [RobotRoom](https://mlegere1323.github.io/RobotRoom/AssignmentFinal.html)
+** A 3D graphics project of mine in which I made a room with a controllable robot in it.
 
 ### Contact Me
 
