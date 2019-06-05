@@ -3,9 +3,9 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-{:refdef: style="text-align: center;"}
+
 ![Philadelphia](https://mlegere1323.github.io/TheBlog/images/Philadelphia.jpg)
-{: refdef}
+
 
 My name is Michael Legere--that's me by The Liberty Bell. I'm a programmer (software development and QA), philosophy enthusiast, weather geek, musician, and gamer. I blog about whatever interests me, as it relates to the software industry, my interests, or software concepts in general. I'm excited about communication, design, social equity, software as an art, emergent phenomena, visualization of dynamic systems, and tools and software that help progress these domains.
 
