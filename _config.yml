@@ -12,7 +12,7 @@ url:
 baseurl: /TheBlog
 
 version: v1.2.0
-avatar: https://mlegere1323.github.io/TheBlog/images/my_face.png
+avatar: https://mlegere1323.github.io/TheBlog/images/myface.PNG
 google_analytics:
 exclude:
 - Gemfile
