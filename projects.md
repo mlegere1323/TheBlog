@@ -5,11 +5,11 @@ permalink: /projects/
 ---
 
 * **RobotRoom**
-  * A 3D graphics Javascript and WebGL project of mine with a room scene and a controllable robot in it. 
+  * A 3D graphics Javascript and WebGL project of mine with a room scene and a controllable robot in it.
+  * [README](https://mlegere1323.github.io/RobotRoom/README.txt)
   * [Source Code](https://github.com/mlegere1323/RobotRoom)
-  * [README](https://mlegere1323.github.io/RobotRoom/README.txt) 
   * [RobotRoom Demo](https://mlegere1323.github.io/RobotRoom/RobotRoom.html)
 * **SenseWeather**
   * A Python and Raspberry Pi Sense Hat application I developed for forecasting weather with a unique, pixelated, and aesthetically pleasing display, using pyOWM.
-  * [Source Code](https://github.com/mlegere1323/SenseWeather/sWeather.py)
   * [README](https://github.com/mlegere1323/SenseWeather/README.md)
+  * [Source Code](https://github.com/mlegere1323/SenseWeather/sWeather.py)
