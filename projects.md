@@ -11,5 +11,5 @@ permalink: /projects/
   * [RobotRoom Demo](https://mlegere1323.github.io/RobotRoom/RobotRoom.html)
 * **SenseWeather**
   * A Python and Raspberry Pi Sense Hat application I developed for forecasting weather with a unique, pixelated, and aesthetically pleasing display, using pyOWM.
-  * [README](https://github.com/mlegere1323/SenseWeather/README.md)
-  * [Source Code](https://github.com/mlegere1323/SenseWeather/sWeather.py)
+  * [README](https://github.com/mlegere1323/SenseWeather/blob/master/README.md)
+  * [Source Code](https://github.com/mlegere1323/SenseWeather/blob/master/sWeather.py)
