@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About Me
 permalink: /about/
 ---
 {:refdef: style="text-align: center;"}
+# About Me
 ![Philadelphia](https://mlegere1323.github.io/TheBlog/images/Philadelphia.jpg)
 {: refdef}
 
