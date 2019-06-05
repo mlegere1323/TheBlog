@@ -4,6 +4,9 @@ permalink: /about/
 ---
 {:refdef: style="text-align: center;"}
 # About Me
+{: refdef}
+
+{:refdef: style="text-align: center;"}
 ![Philadelphia](https://mlegere1323.github.io/TheBlog/images/Philadelphia.jpg)
 {: refdef}
 
