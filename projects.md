@@ -17,4 +17,4 @@ permalink: /projects/
   * A Python, Raspberry Pi, and Arduino program I developed to use my Wii Nunchuk controller as a computer mouse for my Raspberry Pi computer. Gyro/motion controls, and the joystick are both control options for moving the cursor across the screen.
   * [README](https://github.com/mlegere1323/WiiNunchukMouse/blob/master/README.md)
   * [Source Code](https://github.com/mlegere1323/WiiNunchukMouse)
-  * [Wii Nunchuk Mouse Demo Video](https://youtu.be/ExCjDEq3abY)
+  * [Wii Nunchuk Mouse Video Demo](https://youtu.be/ExCjDEq3abY)
