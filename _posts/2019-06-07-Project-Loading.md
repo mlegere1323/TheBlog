@@ -1,9 +1,9 @@
 ---
 layout: post
-title: An Update
+title: Project Loading...
 categories: [Cucumber, Testing]
 ---
-## Project Loading...
+## An Update
 
 Hello again! I've decided I wanted to make a working example of Cucumber for Java! So, I've begun working on a tutorial/how-to with some code and examples with screen shots. 
 
