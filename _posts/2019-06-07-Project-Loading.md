@@ -5,7 +5,7 @@ categories: [Cucumber, Testing]
 ---
 ## An Update
 
-Hello again! I've decided I wanted to make a working example of Cucumber for Java! So, I've begun working on a tutorial/how-to with some code and examples with screen shots. 
+Hello again! I've decided I want to take on another project for this site: making a working example of Cucumber for Java! So, I've begun working on a tutorial/how-to with some code and examples with screen shots. 
 
 <p align="center">
 	<img src="https://mlegere1323.github.io/TheBlog/images/CucumberLogo.PNG">
