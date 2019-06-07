@@ -15,7 +15,7 @@ layout: default
     {% else %}
       {% assign categories = page.categories %}
     {% endif %}
-    <p>Categories:
+    <p><span style="font-weight:bold">Categories:</span>
       {% for category in categories %}
       <a href="{{site.baseurl}}/archive/#
               {{category|slugize}}">{{category}}</a>
