@@ -8,7 +8,7 @@ name: Michael Legere
 sass:
   style: :expanded # You might prefer to minify using :compressed
 
-url:
+url: https://mlegere.site
 baseurl: /TheBlog
 
 version: v1.2.0
