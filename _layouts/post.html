@@ -15,12 +15,13 @@ layout: default
     {% else %}
       {% assign categories = page.categories %}
     {% endif %}
-    <p>Categories:</p>
+    <p>Categories:
     {% for category in categories %}
     <a href="{{site.baseurl}}/archive/#
              {{category|slugize}}">{{category}}</a>
     {% unless forloop.last %}&nbsp;{% endunless %}
     {% endfor %}
+    </p>
   </div>
 
   <div class="date">
