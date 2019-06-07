@@ -9,7 +9,7 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 url: https://mlegere.site
-baseurl: /TheBlog
+baseurl: "" #/TheBlog
 
 version: v1.2.0
 avatar: https://mlegere1323.github.io/TheBlog/images/myface.PNG
