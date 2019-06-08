@@ -14,6 +14,7 @@ permalink: /projects/
   * [Source Code](https://github.com/mlegere1323/RobotRoom)
   * [Robot Room Demo](https://mlegere1323.github.io/RobotRoom/RobotRoom.html)
 
+<hr>
  <h2 align="center">Sense Weather</h2>
  <p align="center">
   <img src="https://mlegere1323.github.io/TheBlog/images/Projects/SenseWeather/OutdoorHUDDiagram.jpg" alt="Sense Weather" width="350" height="200"/>
@@ -23,6 +24,7 @@ permalink: /projects/
   * [README](https://github.com/mlegere1323/SenseWeather/blob/master/README.md)
   * [Source Code](https://github.com/mlegere1323/SenseWeather/blob/master/sWeather.py)
   
+  <hr>
   <h2 align="center">Wii Nunchuk Mouse</h2>
   <p align="center">
    <img src="https://mlegere1323.github.io/TheBlog/images/Projects/WiiNunchukMouse/WiiNunchukMousePreview.PNG" alt="Wii Nunchuk Mouse" width="350" height="200"/>
