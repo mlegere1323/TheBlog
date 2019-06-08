@@ -4,7 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-<hr>
 <h2 align="center">Robot Room</h2>
  <p align="center">
   <img src="https://mlegere1323.github.io/TheBlog/images/Projects/RobotRoom/RobotRoomPreview.PNG" alt="Robot Room" width="350" height="200"/>
