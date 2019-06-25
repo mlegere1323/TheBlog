@@ -3,7 +3,6 @@ layout: post
 title: Tutorial Project Incoming
 categories: [Cucumber, Testing, Projects]
 ---
-
 ## Almost Done!
 
 I'm just about done finishing my example and tutorial for Cucumber in Java which will show a few basic ways of using Cucumber, and instructions on how to set everything up and run it!
