@@ -12,4 +12,4 @@ I'm just about done finishing my example and tutorial for Cucumber in Java which
 	<img src="https://mlegere1323.github.io/TheBlog/images/CucumberIntelliJ.PNG">
 </p>
 
-This is the part I enjoy most: creating the right display of information for a more general audience, with respect to word choice and layout. It's like creative documentation, but with an emphasis on communicability, in my mind, and is always a fun excercise. Nothing quite beats a good markdown README tutorial when done well on GitHub!
+This is the part I enjoy most: creating the right display of information for a more general audience, with respect to word choice and layout, and psychology, it's a holistic effort, to me. It's like creative expression meets documentation, but with an emphasis on communicability, in my mind, and is always a fun excercise. Nothing quite beats a good markdown README tutorial when done well on GitHub!
