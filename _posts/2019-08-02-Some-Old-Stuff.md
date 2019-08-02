@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Some Old Stuff
+excerpt_separator: <!--more-->
 categories: [Games, Projects]
 ---
 ## Old High School Code :D 
@@ -21,4 +22,5 @@ categories: [Games, Projects]
 	<img src="https://mlegere1323.github.io/TheBlog/images/GreenFootProfile.PNG">
 </p>
 
+<!--more-->
 
