@@ -6,7 +6,7 @@ categories: [Games, Projects]
 ---
 ## Old High School Code :D 
 
-* Just found my old high school Java projects that used [Greenfoot](https://www.greenfoot.org/door); it's one of my favorite teaching and learning tools that I've used in my coding journey so far. It's intelligently visual, and simple, and clean.
+* Just found my old high school Java projects that used [Greenfoot](https://www.greenfoot.org/door); it's one of my favorite teaching and learning tools that I've used in my coding journey so far. It's intelligently visual, and simple, and clean. I'd recommend it for anyone learning Java, especially younger people.
 
 <p align="center">
 	<img src="https://mlegere1323.github.io/TheBlog/images/GreenFoot.PNG">
