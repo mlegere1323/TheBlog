@@ -15,14 +15,26 @@ The views contained within this website are solely mine, and in no way reflect a
 
 B.S. Computer Science, University of Southern Maine, Class of 2018
 
+##### Commercial Partner Technology Management:
+* Capital One Financial
+
+##### Platform Engineering:
+* Capital One Financial
+
+##### Production Support Engineering:
+* Capital One Financial
+* Bluetarp Financial
+
 ##### Software Development:
+* Capital One Financial
+* Bluetarp Financial
 * Wex
 * Introspective Systems
 * Tyler Technologies
 * Univeristy of Southern Maine
 * Idexx
 
-##### Quality Assurance:
+##### Quality Assurance Engineering & Automation:
 * Wex
 * Bottomline Technologies
 * Idexx
