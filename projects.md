@@ -40,13 +40,4 @@ permalink: /projects/
   * [README](https://github.com/mlegere1323/WiiNunchukMouse/blob/master/README.md)
   * [Source Code](https://github.com/mlegere1323/WiiNunchukMouse)
   * [Wii Nunchuk Mouse Video Demo](https://youtu.be/ExCjDEq3abY)
-  
-  <hr>
-  <h2 align="center">Cucumber Java Tutorial</h2>
-  <p align="center">
-   <a href = "https://mlegere1323.github.io/TheBlog/images/CucumberIntelliJ.PNG" target = "_self">
-    <img src="https://mlegere1323.github.io/TheBlog/images/CucumberIntelliJ.PNG" alt="Cucumber Java Tutorial" width="350" height="200"/>
-   </a>
-  </p>
-  
-  * A Cucumber and Java tutorial to demonstrate this Behavior-Driven-Development tool -- IN PROGRESS
+ 
