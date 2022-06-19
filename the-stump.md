@@ -16,7 +16,7 @@ permalink: /the-stump/
 
   Thanks for visiting!
   
-  * Enter The Stump
+  * [Enter The Stump](https://mlegere1323.github.io/TheBlog/the-stump-site.md)
 <hr>
 
 I will retain the original work here [link to be added]. 
