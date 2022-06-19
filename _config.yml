@@ -4,7 +4,7 @@ gems:
 
 # Exclude these files from your production _site
 permalink: /:title/
-name: Michael Legere
+name: Michael Infante-Legere
 sass:
   style: :expanded # You might prefer to minify using :compressed
 
