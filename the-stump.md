@@ -14,7 +14,7 @@ permalink: /the-stump/
   
   Most importantly, I wanted to bring this all back to life here for my family, and to keep it alive, and add to it over time as I can only imagine he would've done himself. It's amazing to see the effort he put into learning HTML, learning our family history, and retelling the story of Légère Acadian heritage.
 
-#### Thanks for visiting! --> [Enter The Stump](https://mlegere1323.github.io/TheBlog/the-stump-site.md)
+#### Thanks for visiting! --> [Enter The Stump](https://mlegere1323.github.io/TheBlog/the-stump-site.html)
 ---
 For access to Roger's: 
 * Self-Collected Geneological Records 
