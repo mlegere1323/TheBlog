@@ -7,7 +7,7 @@ permalink: /about/
  <img src="https://mlegere1323.github.io/TheBlog/images/Philadelphia.jpg" alt="Philadelphia" width="200" height="325"/>
 </p>
 
-My name is Michael Legere--that's me by The Liberty Bell. I'm a programmer, divergent thinker, weather geek, musician, and gamer. I blog about whatever interests me; I'm excited about communication, design, social equity, software, emergent phenomena, visualization of dynamic systems, and tools and software that help progress these domains.
+My name is Michael Infante-Legere (formerly: Legere)--that's me by The Liberty Bell. I'm a programmer, divergent thinker, weather geek, musician, and gamer. I blog about whatever interests me; I'm excited about communication, design, social equity, software, emergent phenomena, visualization of dynamic systems, and tools and software that help progress these domains.
 
 When I'm not spending time with my four cats, and dog, and husband, I spend most of my free time following and thinking about the cutting-edge of physics, metaphysics, and technology. You'll also hear me singing loudly at my apartment in Portland most days, and practicing keytar and music poroduction--assuming I'm not out on my OneWheel electric scooter, hovering around.
 
