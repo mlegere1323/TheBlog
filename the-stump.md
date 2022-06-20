@@ -6,7 +6,7 @@ permalink: /the-stump/
 ---
 ### A bit of background...
   
-  My grandfather (Roger Colin Legere) gave me his geneology website (the former URL: [http://www.legerefamilytree.com/](https://mlegere.site/the-stump/)) on a CD back in the early 2000s as a set of HTML files. Additionally, on that CD were the applications he had downloaded onto his computer which he'd used to generate family tree data via now-retired web services, websites and ancestry registries. 
+  My late grandfather (Roger Colin Legere) gave me his geneology website (the former URL: [http://www.legerefamilytree.com/](https://mlegere.site/the-stump/)) on a CD back in the early 2000s as a set of HTML files. Additionally, on that CD were the applications he had downloaded onto his computer which he'd used to generate family tree data via now-retired web services, websites and ancestry registries. 
   
   I've been working on getting everything working again for those applications, and will document a "how-to" usage guide for those interested in what he was using to collect his genealogical data, for future traceability purposes. 
   
