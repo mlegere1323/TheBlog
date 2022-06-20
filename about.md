@@ -7,13 +7,17 @@ permalink: /about/
  <img src="https://mlegere1323.github.io/TheBlog/images/Philadelphia.jpg" alt="Philadelphia" width="200" height="325"/>
 </p>
 
-My name is Michael Legere--that's me by The Liberty Bell. I'm a programmer (software development and QA), philosophy enthusiast, weather geek, musician, and gamer. I blog about whatever interests me, as it relates to the software industry, my interests, or software concepts in general. I'm excited about communication, design, social equity, software as an art, emergent phenomena, visualization of dynamic systems, and tools and software that help progress these domains.
+My name is Michael Legere--that's me by The Liberty Bell. I'm a programmer, divergent thinker, weather geek, musician, and gamer. I blog about whatever interests me; I'm excited about communication, design, social equity, software, emergent phenomena, visualization of dynamic systems, and tools and software that help progress these domains.
 
-The views contained within this website are solely mine, and in no way reflect any specific positions of any employer of mine (past or present).
+When I'm not spending time with my four cats, and dog, and husband, I spend most of my free time following and thinking about the cutting-edge of physics, metaphysics, and technology. You'll also hear me singing loudly at my apartment in Portland most days, and practicing keytar and music poroduction--assuming I'm not out on my OneWheel electric scooter, hovering around.
+
+The views and ignorance contained within this website are solely mine, and in no way reflect any specific positions of any employer of mine (past or present).
 
 ### Background
 
-B.S. Computer Science, University of Southern Maine, Class of 2018
+* B.S. Computer Science, University of Southern Maine, Class of 2018
+* Amazon Web Services Cloud Practitioner 
+  * [Certified, 8 Dec 2021](https://www.credly.com/badges/591d7231-8cdf-4e61-994c-ab3b4fdb2d77/email)
 
 ##### Commercial Partner Technology Management:
 * Capital One Financial
@@ -49,9 +53,7 @@ B.S. Computer Science, University of Southern Maine, Class of 2018
 
 ### Bio
 
-Michael Legere was born in Portland Maine, and has been a resident of Portland for almost a decade. Michael has over a decade of software programming experiences, and has most recently been working in quality assurance to gain holistic perspectives on the software development lifecycle. 
-
-In his spare time, Michael enjoys spending time with his three cats, singing, playing guitar, gaming, learning new technology skills, and reading on complex topics, in addition to participating in various social media.
+Michael Legere was born in Portland Maine, and has been a resident of Portland for a decade. Michael has over a decade of software programming experiences, and has most recently been working in platform engineering. 
 
 ### Contact Me
 
