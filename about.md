@@ -9,7 +9,7 @@ permalink: /about/
   <img src="https://mlegere1323.github.io/TheBlog/images/MyFace3.jpg" alt="myface3" width="200" height="325"/>
 </p>
 
-My name is Michael Infante-Legere (formerly: Legere)--that's me, above, by The Liberty Bell, The Mirage (former Las Vegas hotel), and at Fenway, respectively. I originally come from the Portland area in Maine, but mainly grew up in Brunswick (ME), then moved back to Portland for my undergraduate degree at the University of Southern Maine where I graduated with a Bachelor's of Science degree in Computer Science.
+My name is Michael Infante-Legere (formerly: Legere)--that's me, above, by The Liberty Bell, The Mirage (former Las Vegas hotel), and at Fenway Park in Boston, respectively. I originally come from the Portland area in Maine, but mainly grew up in Brunswick (ME), then moved back to Portland for my undergraduate degree at the University of Southern Maine where I graduated with a Bachelor's of Science degree in Computer Science.
 
 I'm a quality engineer, computer scientist, science geek, musician, and gamer. What excites me most is communication, quiality, design, social equity, emergent phenomena, visualization, systems, and most complex cutting-edge technologies. I know--it's a wide spread of interests, but I find that I often take a bit of insight from each area of interest and can then understand deeper connections underlying most of them, in the abstract. 
 
