@@ -2,7 +2,6 @@
 layout: page
 title: About Me
 permalink: /about/
-pagewidth: aboutmewidth
 ---
  <p align="center">
   <img src="https://mlegere1323.github.io/TheBlog/images/myface.PNG" alt="myface" width="250" height="325"/>
