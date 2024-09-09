@@ -52,11 +52,10 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   	font-size: 30px;
 	a {
-		  color: blue;
-		  display: inline-block;
-		  border: 2px solid #cb4b16; /* Adds a solid border */
-		  padding 1em;
-                  border-radius: 15px; /* Rounds the corners of the border */
+	  display: inline-block;
+	  border: 2px solid #cb4b16; /* Adds a solid border */
+	  padding 1em;
+	  border-radius: 15px; /* Rounds the corners of the border */
 	 }
 }
 
