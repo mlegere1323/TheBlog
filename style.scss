@@ -50,15 +50,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
-  a {
-  background-color: #f44336;
-  color: white;
-  padding: 14px 25px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-}
+  	font-size: 30px;
+	a {
+		  background-color:  #DBF1F9;
+		  color: blue;
+		  text-decoration-line: underline;
+		  display: inline-block;
+		  border: 2px solid #000; /* Adds a solid border */
+                  border-radius: 15px; /* Rounds the corners of the border */
+	 }
 }
 
 h2 {
