@@ -4,12 +4,16 @@ title: About Me
 permalink: /about/
 ---
  <p align="center">
- <img src="https://mlegere1323.github.io/TheBlog/images/Philadelphia.jpg" alt="Philadelphia" width="200" height="325"/>
+  <img src="https://mlegere1323.github.io/TheBlog/images/myface.PNG" alt="myface" width="250" height="325"/>
+  <img src="https://mlegere1323.github.io/TheBlog/images/MyFace2.jpg" alt="myface2" width="300" height="325"/>
+  <img src="https://mlegere1323.github.io/TheBlog/images/MyFace3.jpg" alt="myface3" width="200" height="325"/>
 </p>
 
-My name is Michael Infante-Legere (formerly: Legere)--that's me by The Liberty Bell. I originally come from the Portland area in Maine, but mainly grew up in Brunswick (ME), then moved back to Portland for my undergraduate degree at the University of Southern Maine where I graduated with a Bachelor's of Science degree in Computer Science.
+My name is Michael Infante-Legere (formerly: Legere)--that's me, above, by The Liberty Bell, The Mirage (former Las Vegas hotel), and at Fenway, respectively. I originally come from the Portland area in Maine, but mainly grew up in Brunswick (ME), then moved back to Portland for my undergraduate degree at the University of Southern Maine where I graduated with a Bachelor's of Science degree in Computer Science.
 
-I'm a quality engineer, computer scientist, science geek, musician, and gamer. What excites me most is communication, design, social equity, emergent phenomena, visualization, systems, and most complex cutting-edge technologies. I know--it's a wide spread of interests, but I find that I often take a bit of insight from each area of interest and can then understand deeper connections underlying most of them, in the abstract. I'm truly a pattern-loving person in that, and wont miss an opportunity to share a good analogy when it arises or helps clarify something complex! 
+I'm a quality engineer, computer scientist, science geek, musician, and gamer. What excites me most is communication, quiality, design, social equity, emergent phenomena, visualization, systems, and most complex cutting-edge technologies. I know--it's a wide spread of interests, but I find that I often take a bit of insight from each area of interest and can then understand deeper connections underlying most of them, in the abstract. 
+
+For me, it's like each interest of mine is another tool to better understand other things I'm also interested in! I'm truly a pattern-loving person in that, and wont miss an opportunity to share a good analogy when it arises or helps clarify something complex! 
 
 One of my main spiritual goals in life is to help find ways that help progress these interests of mine for the betterment of people who need it most, or to otherwise connect people in novel meaningful ways via shared collaborative experiences as they relate to what I find fascinating.
 
