@@ -79,8 +79,8 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    //color: $blue;
     color: #cb4b16;
+    padding: 3px;
     border: 1px solid #cb4b16;
   }
 }
